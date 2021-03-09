@@ -1,5 +1,5 @@
-import com.module2.ConvertUppercase;
-import com.module2.FileOutputExample;
+import com.module12.ConvertUppercase;
+import com.module12.FileOutputExample;
 
 // import com.module1.*;
 
@@ -71,14 +71,16 @@ import com.module2.FileOutputExample;
 // }
 
 
-public class App {
-    public static void main(String[] args) throws Exception{
-        ConvertUppercase exmp1=new ConvertUppercase(6);
-        try {
-            exmp1.printUpperCase("abcdefg");
-        } catch (Exception e) {
-            System.out.println(e);
-        }
-    }
+// public class App {
+//     public static void main(String[] args) throws Exception{
+//         ConvertUppercase exmp1=new ConvertUppercase(7);
+//         try {
+//             exmp1.printUpperCase("abcdef");
+//         } catch (Exception e) {
+//             System.out.println(e);
+//         }
+//     }
     
-}
+// }
+
+

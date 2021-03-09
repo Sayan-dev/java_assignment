@@ -1,4 +1,4 @@
-package com.module1;
+package com.module3;
 
 public class SimpleObject {
     public SimpleObject() {
