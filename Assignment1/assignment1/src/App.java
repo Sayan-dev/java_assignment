@@ -1,7 +1,6 @@
-import com.module12.ConvertUppercase;
-import com.module12.FileOutputExample;
+import com.module12.*;
 
-// import com.module1.*;
+import com.module3.*;
 
 // public class App {
 //     public static void main(String[] args) throws Exception {
@@ -84,3 +83,12 @@ import com.module12.FileOutputExample;
 // }
 
 
+
+// public class App {
+//     public static void main(String[] args) throws Exception{
+//         FileOutputExample exmp = new FileOutputExample("F:\\work\\Java_Assignment\\Assignment1\\assignment1\\src\\output.txt");
+//         exmp.writeFile("Example for file output");
+//         exmp.close();
+//     }
+    
+// }
